@@ -1,6 +1,6 @@
-# Hello
+# 웹 개발자, '이재혁'입니다.
 
-## Let's get Connected
+## 
 
 ## Technologies and Tools I use!
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
